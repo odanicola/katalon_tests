@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Berhasil Anamnesa berhasil disimpanPeri_e39ceb</name>
+   <tag></tag>
+   <elementGuidId>dd41a6f1-4029-48cc-8fa0-4246b4f9a3a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifikasi'])[1]/following::div[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-xs-11.col-sm-4.alert.alert-success.animated.fadeOutUp</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>23e4ba1a-3d68-4e86-af9b-fdff83beb314</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-notify</name>
+      <type>Main</type>
+      <value>container</value>
+      <webElementGuid>e7ae4a0e-c2cf-4c28-9195-90c20d9cc02c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-xs-11 col-sm-4 alert alert-success animated fadeOutUp</value>
+      <webElementGuid>b662421c-714a-47cb-879c-c2d0f258425f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>af0b1b6e-950a-483e-87d6-9b04954a7898</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-notify-position</name>
+      <type>Main</type>
+      <value>top-center</value>
+      <webElementGuid>69b499ab-45e7-4bcb-a72a-475cf1379fcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-closing</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>b6ec031f-be19-4f9f-b089-bb781629d9e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>× Berhasil: Anamnesa berhasil disimpan!Periksa Fisik berhasil disimpan!  Perhatian:Data pasien ini belum diverifikasi / belum lengkap.Silahkan verifikasi data pasien di menu Pendaftaran - Pasien &amp; KK!Abaikan pesan ini jika anda akan verifikasi dan lengkapi data pasien di lain waktu.</value>
+      <webElementGuid>23850e56-5370-4064-9d58-b18c8ee7b5f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;col-xs-11 col-sm-4 alert alert-success animated fadeOutUp&quot;]</value>
+      <webElementGuid>58bf598f-d1b8-4878-8930-35576ca005cd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifikasi'])[1]/following::div[7]</value>
+      <webElementGuid>24f35f1a-40ea-4731-b770-3d259f3296d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Memuat...'])[3]/following::div[14]</value>
+      <webElementGuid>d6daa9b9-69da-4e63-90d0-6ecffb6e3324</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[15]</value>
+      <webElementGuid>163c0a8e-7f88-46c7-864d-f2a506faa0d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '× Berhasil: Anamnesa berhasil disimpan!Periksa Fisik berhasil disimpan!  Perhatian:Data pasien ini belum diverifikasi / belum lengkap.Silahkan verifikasi data pasien di menu Pendaftaran - Pasien &amp; KK!Abaikan pesan ini jika anda akan verifikasi dan lengkapi data pasien di lain waktu.' or . = '× Berhasil: Anamnesa berhasil disimpan!Periksa Fisik berhasil disimpan!  Perhatian:Data pasien ini belum diverifikasi / belum lengkap.Silahkan verifikasi data pasien di menu Pendaftaran - Pasien &amp; KK!Abaikan pesan ini jika anda akan verifikasi dan lengkapi data pasien di lain waktu.')]</value>
+      <webElementGuid>3f65b047-03c2-4582-b2de-39d75dea9801</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

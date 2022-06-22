@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Gawat Darurat</name>
+   <tag></tag>
+   <elementGuidId>8c4ed97d-90c5-4e63-8254-2d8dd4fd24e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form_create']/div[2]/div/div[2]/div[2]/div[7]/div/div/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>aecbe68e-c096-4f34-965f-2aadb30fd0de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>8e082974-f3c6-4705-88ef-088d973a8891</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gawat Darurat</value>
+      <webElementGuid>12a4208e-131a-4f04-a5ab-196df47134cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form_create&quot;)/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;box box-bordered&quot;]/div[@class=&quot;panel-body box-bordered&quot;]/div[@class=&quot;col-sm-6&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-sm-8 has-success&quot;]/div[@class=&quot;input-group&quot;]/label[@class=&quot;radio-inline&quot;]/span[@class=&quot;label&quot;]</value>
+      <webElementGuid>622820a3-102c-4fb7-8400-9537d921b414</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form_create']/div[2]/div/div[2]/div[2]/div[7]/div/div/label/span</value>
+      <webElementGuid>bf5fb40e-dddb-49b6-a6ac-63a2ba917a85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[14]/following::span[1]</value>
+      <webElementGuid>c8ed515d-09ee-4b38-b838-d4f06b072958</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Darurat'])[1]/preceding::span[1]</value>
+      <webElementGuid>df0ef571-0919-4a9c-b04e-72c6cf109720</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak Gawat Darurat'])[1]/preceding::span[2]</value>
+      <webElementGuid>6ec8c535-0e97-4052-aae1-db4f0ba65405</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Gawat Darurat']/parent::*</value>
+      <webElementGuid>948099f4-9424-433d-a237-e529329e07b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/label/span</value>
+      <webElementGuid>bba55990-1544-44d7-a097-c576253bbff7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Gawat Darurat' or . = 'Gawat Darurat')]</value>
+      <webElementGuid>19b50758-3fdc-447f-b6cb-ce816806c1fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
