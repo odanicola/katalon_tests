@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_- Pilih -                           _73a496</name>
+   <tag></tag>
+   <elementGuidId>cee663cb-25fa-4752-aa91-07420a9f4f7c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='MPasien[warganegara]']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;MPasien[warganegara]&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>3717e9cd-8aba-4198-8744-edc9949636bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control input-sm warganegara</value>
+      <webElementGuid>454ae3b6-979b-4421-8143-ca459cf483e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>MPasien[warganegara]</value>
+      <webElementGuid>ffd2bb02-0d68-4235-9340-97144922692f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>required</name>
+      <type>Main</type>
+      <value>required</value>
+      <webElementGuid>648eb8de-f6d1-425c-8e51-1ce36aeaa01f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            - Pilih -
+                                                                                                INDONESIA
+                                                                    ASING
+                                                                                    </value>
+      <webElementGuid>bd98aa47-94b2-496f-9691-46049fab4d5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form_creates&quot;)/div[@class=&quot;panel-body row&quot;]/div[@class=&quot;col-sm-4&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-sm-8&quot;]/select[@class=&quot;form-control input-sm warganegara&quot;]</value>
+      <webElementGuid>25c4205a-6005-4d25-9c0a-f1ec161a37f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='MPasien[warganegara]']</value>
+      <webElementGuid>7ce86e21-9309-4319-9ab8-b10fd71adcc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form_creates']/div/div[3]/div[10]/div/select</value>
+      <webElementGuid>da237168-e5eb-4c91-8f28-5766d57a9fe1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[19]/following::select[1]</value>
+      <webElementGuid>915c1816-c283-4737-ae54-94003d9c1d6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No. Paspor'])[1]/preceding::select[1]</value>
+      <webElementGuid>2ec2c69d-6ef5-48df-a920-15321291924c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Ayah/KK'])[1]/preceding::select[1]</value>
+      <webElementGuid>8f319b50-08d6-4357-b04c-69d876d62bf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/select</value>
+      <webElementGuid>cd486f0b-b774-4538-b5e5-5526caa7b922</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'MPasien[warganegara]' and (text() = '
+                            - Pilih -
+                                                                                                INDONESIA
+                                                                    ASING
+                                                                                    ' or . = '
+                            - Pilih -
+                                                                                                INDONESIA
+                                                                    ASING
+                                                                                    ')]</value>
+      <webElementGuid>af9a054d-1fef-4b6b-b3fe-20a16b413b3e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
