@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_174</name>
+   <tag></tag>
+   <elementGuidId>77e9dfbb-c469-4b8e-aa5e-d36f0d98273b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='datatableWrapper']/div[3]/div[2]/ul/li[6]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>318a2781-8315-4534-b45d-23040df5266b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>174</value>
+      <webElementGuid>9fa7579d-0569-48e3-b632-bc4d85844f38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;datatableWrapper&quot;)/div[@class=&quot;datatable-footer&quot;]/div[@class=&quot;col-sm-8 datatable-footer-pagination text-right&quot;]/ul[@class=&quot;pagination&quot;]/li[@class=&quot;clickable hidden-xs&quot;]/span[1]</value>
+      <webElementGuid>5ff9a459-ea80-4ed1-8a7d-d7d01c704500</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='datatableWrapper']/div[3]/div[2]/ul/li[6]/span</value>
+      <webElementGuid>ee14531e-7321-4b10-8da3-ff5057910933</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='...'])[1]/following::span[3]</value>
+      <webElementGuid>88b1f12e-d80d-4daa-b8c0-bbbfa1a8e296</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='«'])[1]/following::span[5]</value>
+      <webElementGuid>1a705caa-b079-4b76-85a2-44685b77a69a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='»'])[1]/preceding::span[2]</value>
+      <webElementGuid>e384e41c-ef09-464f-8fcb-0d1db0094fbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Memuat...'])[1]/preceding::span[5]</value>
+      <webElementGuid>d1c11c27-9a1a-427a-a1fa-a65861293939</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='174']/parent::*</value>
+      <webElementGuid>f9f90790-74ba-4063-863c-869d1faeb32e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[6]/span</value>
+      <webElementGuid>d9e9e747-80a4-42cb-9710-ccf1b9a6df86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '174' or . = '174')]</value>
+      <webElementGuid>e0881f8d-22df-4b91-8334-ca522c15f718</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

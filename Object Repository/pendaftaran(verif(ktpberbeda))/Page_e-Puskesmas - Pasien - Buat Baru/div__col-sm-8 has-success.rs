@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__col-sm-8 has-success</name>
+   <tag></tag>
+   <elementGuidId>59f31df7-8c06-4aa7-b29f-cf19f413d2d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form_creates']/div/div[2]/div[6]/div[2]/div[4]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ac2f0bdb-a092-465c-ac2d-85560ca0fa44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-sm-8 has-success</value>
+      <webElementGuid>15681918-8b10-4844-aa11-b489e76bed2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form_creates&quot;)/div[@class=&quot;panel-body row&quot;]/div[@class=&quot;col-sm-4&quot;]/div[@class=&quot;panel panel-default container-fluid&quot;]/div[@class=&quot;panel-body row&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-sm-8 has-success&quot;]</value>
+      <webElementGuid>7176db4f-9dfc-436c-9613-f9c1d0977c91</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form_creates']/div/div[2]/div[6]/div[2]/div[4]/div</value>
+      <webElementGuid>eda99d92-8c46-45d0-81db-4ad62876e23a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[11]/following::div[1]</value>
+      <webElementGuid>ffdefb4f-308f-424f-aeff-26720fb47368</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dusun'])[1]/preceding::div[1]</value>
+      <webElementGuid>5dad4602-dd39-4a43-8e05-60218054a397</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div[4]/div</value>
+      <webElementGuid>50ed4bb1-de7f-416f-bfdb-cc9433f05430</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

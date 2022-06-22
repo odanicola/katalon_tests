@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_- Pilih -                           _05c17e</name>
+   <tag></tag>
+   <elementGuidId>a7720c36-0fc5-496f-b8d4-4510f5a989d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='MPasien[agama]']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;MPasien[agama]&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>624625af-3154-42b2-adb9-9b13f1592257</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control input-sm</value>
+      <webElementGuid>025eef1d-d9f3-4265-b22d-f22e67362fe0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>MPasien[agama]</value>
+      <webElementGuid>891e0d2d-bda4-4b02-94b2-0702f7f66dd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>required</name>
+      <type>Main</type>
+      <value>required</value>
+      <webElementGuid>34d2e6b3-a6de-4e05-919e-b976d7f3ce20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            - Pilih -
+                                                                                                ISLAM
+                                                                    KATOLIK
+                                                                    KRISTEN
+                                                                    HINDU
+                                                                    BUDDHA
+                                                                    KONGHUCU
+                                                                    LAINNYA
+                                                                                    </value>
+      <webElementGuid>8fb41c1e-05b1-476d-8ffa-c8c33c48eb96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form_creates&quot;)/div[@class=&quot;panel-body row&quot;]/div[@class=&quot;col-sm-4&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-sm-8&quot;]/select[@class=&quot;form-control input-sm&quot;]</value>
+      <webElementGuid>1e0a2fb5-d3ce-4084-aaaf-ed0210cb35ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='MPasien[agama]']</value>
+      <webElementGuid>8e487780-ffeb-44a3-bcdc-20bd95ed9d99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form_creates']/div/div[3]/div[5]/div/select</value>
+      <webElementGuid>f3363a2f-446e-4617-80e3-385df3e673da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[15]/following::select[1]</value>
+      <webElementGuid>1c3bb63a-7a78-43f0-97e2-08a3f4609837</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[16]/preceding::select[1]</value>
+      <webElementGuid>dc172232-c30f-409e-b19b-d66400ac177d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/select</value>
+      <webElementGuid>70a85d5b-0731-49c6-8475-679e97fccedb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'MPasien[agama]' and (text() = '
+                            - Pilih -
+                                                                                                ISLAM
+                                                                    KATOLIK
+                                                                    KRISTEN
+                                                                    HINDU
+                                                                    BUDDHA
+                                                                    KONGHUCU
+                                                                    LAINNYA
+                                                                                    ' or . = '
+                            - Pilih -
+                                                                                                ISLAM
+                                                                    KATOLIK
+                                                                    KRISTEN
+                                                                    HINDU
+                                                                    BUDDHA
+                                                                    KONGHUCU
+                                                                    LAINNYA
+                                                                                    ')]</value>
+      <webElementGuid>2e14a4bd-a4c2-49f0-9ec1-81dd881e4e23</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
