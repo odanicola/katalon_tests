@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_JOHN</name>
+   <tag></tag>
+   <elementGuidId>995c464c-eb6a-4e00-bada-7727dd96efc7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='datatableWrapper']/div[2]/table/tbody/tr[5]/td[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>29c2cab1-08e6-46ad-aa5b-9b1c04678ee0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>JOHN</value>
+      <webElementGuid>b9c3b123-8477-4306-866e-be72b3d683d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;datatableWrapper&quot;)/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;table table-bordered table-hover table-condensed table-sortable datatable&quot;]/tbody[1]/tr[5]/td[5]</value>
+      <webElementGuid>2848842c-4ed1-4b27-beaf-2aea5e0b5422</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='datatableWrapper']/div[2]/table/tbody/tr[5]/td[5]</value>
+      <webElementGuid>105ee976-dbd9-416b-9eb5-fd514d3ec1fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Label 2'])[4]/following::td[6]</value>
+      <webElementGuid>05283cb7-a1d1-44d7-a08f-d621a695e4f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toggle Dropup'])[4]/following::td[6]</value>
+      <webElementGuid>7980b6e2-d0d3-4270-979a-df28cbd39a90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laki-laki'])[5]/preceding::td[3]</value>
+      <webElementGuid>a201c459-f269-457a-a1c1-eae574edbee3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=', 21-Maret-1970'])[2]/preceding::td[4]</value>
+      <webElementGuid>6a774e10-1140-4105-86d9-1856fffe3db0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td[5]</value>
+      <webElementGuid>d1e6a451-4103-42cc-9789-a402689b1125</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'JOHN' or . = 'JOHN')]</value>
+      <webElementGuid>94011fe6-4d71-4f7d-b5ee-896449ac263c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

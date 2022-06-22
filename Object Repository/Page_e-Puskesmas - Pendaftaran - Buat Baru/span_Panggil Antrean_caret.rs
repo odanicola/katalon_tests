@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Panggil Antrean_caret</name>
+   <tag></tag>
+   <elementGuidId>f03f2f27-543e-4f51-878c-b346d1f7d925</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='menu_pelayanan']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu_pelayanan > span.caret</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>54e38fe6-a693-4604-915f-4a7edba718df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>caret</value>
+      <webElementGuid>5566eb3c-40e0-4ba1-a78a-6aa8691bdc21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu_pelayanan&quot;)/span[@class=&quot;caret&quot;]</value>
+      <webElementGuid>1ba1cd8a-1f08-4695-b62c-53151f0599fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='menu_pelayanan']/span</value>
+      <webElementGuid>01e657a1-089a-4623-b921-68c9a32007f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span</value>
+      <webElementGuid>b5efb761-1a0a-42fc-a069-c5be49c45d90</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

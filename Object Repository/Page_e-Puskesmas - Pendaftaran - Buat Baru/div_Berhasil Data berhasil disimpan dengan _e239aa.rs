@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Berhasil Data berhasil disimpan dengan _e239aa</name>
+   <tag></tag>
+   <elementGuidId>bb78d58f-a36f-4de6-bb97-2623c1a46f33</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifikasi'])[1]/following::div[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-xs-11.col-sm-4.alert.alert-success.animated.fadeOutUp</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b1ac0994-b8af-43ba-9de2-8caccb8b1949</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-notify</name>
+      <type>Main</type>
+      <value>container</value>
+      <webElementGuid>6fdd504a-a445-497b-b324-d854efd1446d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-xs-11 col-sm-4 alert alert-success animated fadeOutUp</value>
+      <webElementGuid>d982e1ac-1c18-4e6d-8d44-c8ff2695743a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>1fde8ec9-3660-42d7-b36d-17bbdfbbc52d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-notify-position</name>
+      <type>Main</type>
+      <value>top-center</value>
+      <webElementGuid>f26a08dc-b7ea-40ea-988d-cb59af6628d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-closing</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>8a8e3bcf-ba4a-4860-ad48-ccab6ea470fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>× Berhasil: Data berhasil disimpan dengan ID: 9666!  Perhatian:Data pasien ini belum diverifikasi / belum lengkap.Silahkan verifikasi data pasien di menu Pendaftaran - Pasien &amp; KK!Abaikan pesan ini jika anda akan verifikasi dan lengkapi data pasien di lain waktu.sms notifikasi: No Hanphone Tidak Sesuai, Format yang Benar adalah nomor 1[0], 2[8], 3[1-9], 4[1-9] 5-10[0-9]Data center belum disetting!</value>
+      <webElementGuid>fe92336d-21ef-4ef9-b9f7-f981a95f13e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;col-xs-11 col-sm-4 alert alert-success animated fadeOutUp&quot;]</value>
+      <webElementGuid>8a65f9e9-4338-4e2a-af1a-f29df302be3a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifikasi'])[1]/following::div[7]</value>
+      <webElementGuid>ea0a697e-4541-4c13-8004-6852c3273cf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Memuat...'])[3]/following::div[14]</value>
+      <webElementGuid>826310fa-7f6d-446f-a875-470d0bec4954</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]</value>
+      <webElementGuid>ef6b9e91-661d-452a-8d01-1288da276d33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '× Berhasil: Data berhasil disimpan dengan ID: 9666!  Perhatian:Data pasien ini belum diverifikasi / belum lengkap.Silahkan verifikasi data pasien di menu Pendaftaran - Pasien &amp; KK!Abaikan pesan ini jika anda akan verifikasi dan lengkapi data pasien di lain waktu.sms notifikasi: No Hanphone Tidak Sesuai, Format yang Benar adalah nomor 1[0], 2[8], 3[1-9], 4[1-9] 5-10[0-9]Data center belum disetting!' or . = '× Berhasil: Data berhasil disimpan dengan ID: 9666!  Perhatian:Data pasien ini belum diverifikasi / belum lengkap.Silahkan verifikasi data pasien di menu Pendaftaran - Pasien &amp; KK!Abaikan pesan ini jika anda akan verifikasi dan lengkapi data pasien di lain waktu.sms notifikasi: No Hanphone Tidak Sesuai, Format yang Benar adalah nomor 1[0], 2[8], 3[1-9], 4[1-9] 5-10[0-9]Data center belum disetting!')]</value>
+      <webElementGuid>fe1f3b70-b695-4ad2-b30a-f1995fb0f021</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

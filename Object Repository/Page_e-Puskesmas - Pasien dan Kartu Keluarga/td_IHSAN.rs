@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_IHSAN</name>
+   <tag></tag>
+   <elementGuidId>9057acb7-8463-4218-ba34-702b952a548d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='datatableWrapper']/div[2]/table/tbody/tr[2]/td[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>eaee362e-c097-4dce-ad8e-ef3893732eda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>IHSAN</value>
+      <webElementGuid>2d352e9c-3d80-42f9-a433-722f8f4ea4bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;datatableWrapper&quot;)/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;table table-bordered table-hover table-condensed table-sortable datatable&quot;]/tbody[1]/tr[2]/td[5]</value>
+      <webElementGuid>2ab61a5a-1632-4a18-bf98-50e54f90b707</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='datatableWrapper']/div[2]/table/tbody/tr[2]/td[5]</value>
+      <webElementGuid>3f50cccc-af11-4484-8890-e4b9676a1cb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Label 2'])[1]/following::td[6]</value>
+      <webElementGuid>56e7fbe8-9e11-440b-9a44-31bf8eea40ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toggle Dropup'])[1]/following::td[6]</value>
+      <webElementGuid>6856b5ca-f7e3-40d3-b61c-593ef829c97a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laki-laki'])[2]/preceding::td[3]</value>
+      <webElementGuid>f96d2352-376e-4d62-b994-319e7157499c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BANDUNG, 01-Januari-1990'])[1]/preceding::td[4]</value>
+      <webElementGuid>dfa53b6d-1e73-4d4f-99f2-76ec40a4d19c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='IHSAN']/parent::*</value>
+      <webElementGuid>339e89ba-c67b-4bc1-9e23-676efc8809be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[5]</value>
+      <webElementGuid>44bb83c3-dac4-4a86-83f0-56709cd7a868</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'IHSAN' or . = 'IHSAN')]</value>
+      <webElementGuid>088fc303-09c1-4f36-8f67-3c1409f82e8b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

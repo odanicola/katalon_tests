@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_BUTET</name>
+   <tag></tag>
+   <elementGuidId>5a5a0691-e8a8-4074-b0e5-a6a136b79860</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='datatableWrapper']/div[2]/table/tbody/tr[5]/td[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>7e07ddd3-a8e4-4ffd-b9b6-7d05f07bd7f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BUTET</value>
+      <webElementGuid>b5f25bb6-c31c-48cd-8d0b-f8fe508e371b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;datatableWrapper&quot;)/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;table table-bordered table-hover table-condensed table-sortable datatable&quot;]/tbody[1]/tr[5]/td[5]</value>
+      <webElementGuid>d48b70d1-855c-49c7-9775-fa335ae9cf49</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='datatableWrapper']/div[2]/table/tbody/tr[5]/td[5]</value>
+      <webElementGuid>4c50ba05-a8c1-421e-8b18-89ee0cbf7847</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Label 2'])[4]/following::td[6]</value>
+      <webElementGuid>b5b871cd-a9cc-45e7-a012-ddb0fd8a8253</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toggle Dropup'])[4]/following::td[6]</value>
+      <webElementGuid>01ace32d-2e2a-4e3e-a77a-ceea7b2167a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perempuan'])[2]/preceding::td[3]</value>
+      <webElementGuid>56aa91e7-e2a7-4774-a061-16ee84deb36d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MEDAN, 09-Desember-1989'])[1]/preceding::td[4]</value>
+      <webElementGuid>b09b3950-af57-4b3d-abd3-54bc91b47755</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='BUTET']/parent::*</value>
+      <webElementGuid>2799f5de-b9d9-474d-bb75-e0b85823bad7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td[5]</value>
+      <webElementGuid>f571a44a-1ab2-4546-a0cb-971896378db5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'BUTET' or . = 'BUTET')]</value>
+      <webElementGuid>e24dd767-266b-4479-b10c-cf48c334ae9f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

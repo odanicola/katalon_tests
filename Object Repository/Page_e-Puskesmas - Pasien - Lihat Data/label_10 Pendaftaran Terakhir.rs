@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_10 Pendaftaran Terakhir</name>
+   <tag></tag>
+   <elementGuidId>b87cd6d3-60f4-4029-96f4-fa6ec45322f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='content']/div/div[2]/ul/div[3]/li/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.col-sm-12</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>8adcd587-43f9-48c3-9a99-d64f163cb750</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-sm-12</value>
+      <webElementGuid>63a2e306-c730-4fa0-877d-92a88d3d6f2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>10 Pendaftaran Terakhir</value>
+      <webElementGuid>6799634f-bdca-4251-9abf-3db316d9d7f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;panel panel-default container-fluid&quot;]/div[@class=&quot;panel-body&quot;]/ul[@class=&quot;list-group&quot;]/div[@class=&quot;col-sm-4&quot;]/li[@class=&quot;list-group-item row&quot;]/label[@class=&quot;col-sm-12&quot;]</value>
+      <webElementGuid>abc5998a-b1f9-4a09-afc4-0414daa9e075</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='content']/div/div[2]/ul/div[3]/li/label</value>
+      <webElementGuid>79a3e2bb-ec91-43bc-9faf-ea9d309a82f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[1]/following::label[1]</value>
+      <webElementGuid>dca15483-58aa-4a67-b3f2-faf469339879</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dihapus pada / oleh'])[1]/following::label[1]</value>
+      <webElementGuid>58af1554-94f4-4545-9fe6-89a08936e965</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No.'])[1]/preceding::label[1]</value>
+      <webElementGuid>fd5e1e39-b5ef-477e-abab-a021ca881a8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanggal Daftar'])[1]/preceding::label[1]</value>
+      <webElementGuid>1bb3b1e4-5ec4-4f29-9685-fae8399f4685</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='10 Pendaftaran Terakhir']/parent::*</value>
+      <webElementGuid>33f4ae2f-7fbb-4594-bf58-efa3a60f0ef2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/li/label</value>
+      <webElementGuid>8d9bf6a8-eb47-46e2-a573-44d09aeca14c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '10 Pendaftaran Terakhir' or . = '10 Pendaftaran Terakhir')]</value>
+      <webElementGuid>4ffdc4aa-11b7-4aac-8b71-d6d19c41c7b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Rawat Jalan</name>
+   <tag></tag>
+   <elementGuidId>c55d0657-efc2-421d-904e-e566023bb542</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='row_pelayanan']/div/div/div/span/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-sm-3.col-xs-6</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>331f9f75-e58f-4032-b042-075b62bd7de5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-sm-3 col-xs-6</value>
+      <webElementGuid>0a74e6b1-1659-4178-b5ac-c40dedf77664</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Rawat Jalan</value>
+      <webElementGuid>0fed6dd2-22f5-4b15-be85-e73d034e4dbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;row_pelayanan&quot;)/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-sm-10&quot;]/span[1]/div[@class=&quot;col-sm-3 col-xs-6&quot;]</value>
+      <webElementGuid>0521d9eb-d676-40b0-88c7-8c1d27bb4abe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='row_pelayanan']/div/div/div/span/div</value>
+      <webElementGuid>7a3b89fa-9cf8-4c28-a118-2224adfae37b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[10]/following::div[2]</value>
+      <webElementGuid>17aa09c4-82f7-40df-b582-979c2e1ed623</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gawat Darurat'])[1]/preceding::div[1]</value>
+      <webElementGuid>0c5b29cf-dc46-4cac-9607-ba13fd35a5e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div</value>
+      <webElementGuid>c0f8cb54-18d7-4113-a46b-f43319db4fd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Rawat Jalan' or . = ' Rawat Jalan')]</value>
+      <webElementGuid>035fc2b8-7414-4b82-9a52-73507a5a502f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

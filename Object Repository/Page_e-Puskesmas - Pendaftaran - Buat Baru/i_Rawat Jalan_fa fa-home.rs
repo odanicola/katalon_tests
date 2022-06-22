@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Rawat Jalan_fa fa-home</name>
+   <tag></tag>
+   <elementGuidId>2f0e6e3e-b026-4238-8d86-6e87dcd13655</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='row_pelayanan']/div/div/div/span/div/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-home</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>7fae50d7-dbbf-47e1-aa01-feeb2215c02e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-home</value>
+      <webElementGuid>34913c70-0986-4e47-a90a-81e8dbd194d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;row_pelayanan&quot;)/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-sm-10&quot;]/span[1]/div[@class=&quot;col-sm-3 col-xs-6&quot;]/button[@class=&quot;btn btn-list btn-info&quot;]/i[@class=&quot;fa fa-home&quot;]</value>
+      <webElementGuid>2c8d15eb-c58a-447f-9fde-0542526843b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='row_pelayanan']/div/div/div/span/div/button/i</value>
+      <webElementGuid>8bbd3552-36ca-4279-9f38-8efdb31a8a38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/i</value>
+      <webElementGuid>dfbb7ead-258f-4694-8f86-0552da2059a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

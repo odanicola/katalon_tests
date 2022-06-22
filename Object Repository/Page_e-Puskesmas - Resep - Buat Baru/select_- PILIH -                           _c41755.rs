@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_- PILIH -                           _c41755</name>
+   <tag></tag>
+   <elementGuidId>0fba9fe2-7206-45d0-a1d8-1ecd1d683189</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='ResepDetail[1][obat_racikan]']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;ResepDetail[1][obat_racikan]&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>8c8585f4-9220-41ef-8340-5f04d38781c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control input-sm</value>
+      <webElementGuid>4bbc093a-2543-4bd5-ab5d-5928389f80ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-for</name>
+      <type>Main</type>
+      <value>obat_racikan</value>
+      <webElementGuid>a92dbcd5-707f-45ed-9ba3-4fca084a75fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ResepDetail[1][obat_racikan]</value>
+      <webElementGuid>adef4489-ae09-44fd-92cd-65bd966428af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>racikan($(this));</value>
+      <webElementGuid>772fc772-431d-4e99-9378-ec80b3e441e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                - PILIH -
+                                                                                                                                                            R1
+                                                                                                            R2
+                                                                                                            R3
+                                                                                                            R4
+                                                                                                            R5
+                                                                                                                                                </value>
+      <webElementGuid>985eae92-2e9a-4646-9cd4-866aa432a3d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tr_1&quot;)/td[1]/select[@class=&quot;form-control input-sm&quot;]</value>
+      <webElementGuid>954b7a2c-8f82-4fa7-b6e4-a64b14d94b74</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='ResepDetail[1][obat_racikan]']</value>
+      <webElementGuid>b1ee2e4f-8fe6-4844-9da7-c27870ddd7e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='tr_1']/td/select</value>
+      <webElementGuid>33cfa52a-69d7-43ab-945e-e7f6c21a47dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keterangan'])[2]/following::select[1]</value>
+      <webElementGuid>9ddcf476-5a77-425a-8baa-e71cc458e621</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aturan Pakai'])[1]/following::select[1]</value>
+      <webElementGuid>aa833820-6e58-4a5b-a726-fb3eddaf4203</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah'])[2]/preceding::select[2]</value>
+      <webElementGuid>5f5e9b6e-d973-4745-9826-ef72c090dece</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hapus'])[3]/preceding::select[2]</value>
+      <webElementGuid>36bd4b59-6b3e-4068-ab9b-7b315696e3df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/table/tbody/tr/td/select</value>
+      <webElementGuid>4f558a8d-d20e-4870-9154-4ba95f5348c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ResepDetail[1][obat_racikan]' and (text() = '
+                                                - PILIH -
+                                                                                                                                                            R1
+                                                                                                            R2
+                                                                                                            R3
+                                                                                                            R4
+                                                                                                            R5
+                                                                                                                                                ' or . = '
+                                                - PILIH -
+                                                                                                                                                            R1
+                                                                                                            R2
+                                                                                                            R3
+                                                                                                            R4
+                                                                                                            R5
+                                                                                                                                                ')]</value>
+      <webElementGuid>bf0ad10c-b338-4fd1-8c13-0994ce5f6d12</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

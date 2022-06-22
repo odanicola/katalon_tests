@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_CHARLY</name>
+   <tag></tag>
+   <elementGuidId>2d9c2274-922c-4d93-afcd-38635bd20493</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='datatableWrapper']/div[2]/table/tbody/tr[4]/td[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>9db200aa-03a3-4513-ab91-4a70f10ca21b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CHARLY</value>
+      <webElementGuid>aaa185df-577a-4671-ac0d-571924671d85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;datatableWrapper&quot;)/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;table table-bordered table-hover table-condensed table-sortable datatable&quot;]/tbody[1]/tr[4]/td[5]</value>
+      <webElementGuid>6b4e552a-6b16-4617-8944-e94a15bf68ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='datatableWrapper']/div[2]/table/tbody/tr[4]/td[5]</value>
+      <webElementGuid>26035f8a-459b-4a38-9479-be94d2d83c5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Label 2'])[3]/following::td[6]</value>
+      <webElementGuid>232afcab-10e9-40db-91fc-6c6b6bdaa7b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toggle Dropup'])[3]/following::td[6]</value>
+      <webElementGuid>a6d58049-c212-4bee-9468-fb679cc2a3f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perempuan'])[1]/preceding::td[3]</value>
+      <webElementGuid>bca9a5da-b7dd-43e2-9828-822402840bcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MEDAN, 09-Januari-2001'])[1]/preceding::td[4]</value>
+      <webElementGuid>9a3cb3ba-d9c2-4f87-8839-e6c2a29a73d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='CHARLY']/parent::*</value>
+      <webElementGuid>5d5e9f28-f8ac-436a-a8b2-b8833d0a9b77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[5]</value>
+      <webElementGuid>b694ecd3-f10b-4151-9eb6-57a40aaacb2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'CHARLY' or . = 'CHARLY')]</value>
+      <webElementGuid>a0108494-5776-475e-8196-055c313d116f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

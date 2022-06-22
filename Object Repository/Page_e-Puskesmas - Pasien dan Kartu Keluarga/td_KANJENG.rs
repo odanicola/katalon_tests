@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_KANJENG</name>
+   <tag></tag>
+   <elementGuidId>1951ac8b-8da1-4f99-a46c-1e31ef935995</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='datatableWrapper']/div[2]/table/tbody/tr[7]/td[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>b6ff2af0-aa4a-4c33-aee5-a6363c61d4e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>KANJENG</value>
+      <webElementGuid>843575a3-de74-4ee8-b853-2dc60fdaf2b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;datatableWrapper&quot;)/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;table table-bordered table-hover table-condensed table-sortable datatable&quot;]/tbody[1]/tr[7]/td[5]</value>
+      <webElementGuid>5fa88cec-5159-4a87-ae92-20338fcb93ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='datatableWrapper']/div[2]/table/tbody/tr[7]/td[5]</value>
+      <webElementGuid>cfcb679d-1a4b-4b79-9cc3-cb9eb69b938d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Label 2'])[6]/following::td[6]</value>
+      <webElementGuid>63423921-f27c-424d-94b6-3a13e313d68d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toggle Dropup'])[6]/following::td[6]</value>
+      <webElementGuid>ee3b806d-e1a6-4a30-a968-096bb7f6faeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laki-laki'])[7]/preceding::td[3]</value>
+      <webElementGuid>a29e5090-2676-41ba-ae57-25aed5ee76da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JEPARA, 10-Desember-2000'])[1]/preceding::td[4]</value>
+      <webElementGuid>41d8f6e4-a207-467b-b843-76b428153464</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='KANJENG']/parent::*</value>
+      <webElementGuid>e95b579d-6a13-4336-a3b8-4648526cce32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[7]/td[5]</value>
+      <webElementGuid>43050007-b119-4091-9c7b-6f97c5bb4bbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'KANJENG' or . = 'KANJENG')]</value>
+      <webElementGuid>628df35f-0f7c-44a6-ba8e-31a9f49c9064</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
